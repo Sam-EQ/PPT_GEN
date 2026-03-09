@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+python-multipart
+marker-pdf[full]>=0.3.7
+openai==1.109.1
+python-pptx
+pydantic
